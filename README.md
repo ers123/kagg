@@ -1,1 +1,1 @@
-# kagg
+# Kaggle Avazu CTR prediction
